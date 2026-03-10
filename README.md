@@ -67,7 +67,23 @@ Update Product
 Delete Product
 
 ------
-# C. How to Use the Application
+# C. The process of creating the database :
+
+**Creating the flat file**
+<img width="940" height="131" alt="image" src="https://github.com/user-attachments/assets/7e076783-a259-4c02-9261-f0d7bef6f991" />
+**1 NF**
+<img width="1070" height="116" alt="image" src="https://github.com/user-attachments/assets/82435b21-e807-4932-9e1b-dce9ad7e3688" />
+**2 NF** 
+<img width="940" height="305" alt="image" src="https://github.com/user-attachments/assets/0e6e2a32-de50-4707-8eb1-be412f08d94a" />
+**3 NF**
+<img width="940" height="347" alt="image" src="https://github.com/user-attachments/assets/2bd71043-fd91-452d-a1fd-8ebd60f92343" />
+**ERD**
+<img width="940" height="582" alt="image" src="https://github.com/user-attachments/assets/2d77fd3d-f232-4ed9-aea9-635dcb9fe5e4" />
+**Data Diagram**
+<img width="940" height="573" alt="image" src="https://github.com/user-attachments/assets/44b42500-8824-4ecb-9971-219e7b4c399c" />
+
+------
+# D. How to Use the Application
 
 ## Add a Product
 
